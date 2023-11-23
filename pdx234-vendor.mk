@@ -206,7 +206,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx234/proprietary/vendor/etc/wifi/bdwlan.e31:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bdwlan.e31 \
     vendor/sony/pdx234/proprietary/vendor/etc/wifi/regdb.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/regdb.bin \
     vendor/sony/pdx234/proprietary/vendor/etc/wifi/wifi_txpower.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/wifi_txpower.conf \
-    vendor/sony/pdx234/proprietary/vendor/etc/wifi/wpa_supplicant.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/wpa_supplicant.conf \
     vendor/sony/pdx234/proprietary/vendor/etc/zoom_noise_reduction/znr_Front_44k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_Front_44k.tbl \
     vendor/sony/pdx234/proprietary/vendor/etc/zoom_noise_reduction/znr_Front_48k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_Front_48k.tbl \
     vendor/sony/pdx234/proprietary/vendor/etc/zoom_noise_reduction/znr_Front_mono_44k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_Front_mono_44k.tbl \
