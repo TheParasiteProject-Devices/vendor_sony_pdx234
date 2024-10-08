@@ -18,7 +18,8 @@ soong_namespace {
 }
 
 cc_prebuilt_library_shared {
-	name: "libQnnHtp",
+	name: "libQnnHtp.Camera_QNN",
+	stem: "libQnnHtp",
 	owner: "sony",
 	strip: {
 		none: true,
@@ -36,7 +37,8 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-	name: "libQnnHtpV73Stub",
+	name: "libQnnHtpV73Stub.Camera_QNN",
+	stem: "libQnnHtpV73Stub",
 	owner: "sony",
 	strip: {
 		none: true,

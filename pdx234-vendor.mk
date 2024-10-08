@@ -288,8 +288,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx234/proprietary/vendor/lib64/camera/imx688.pb:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/imx688.pb
 
 PRODUCT_PACKAGES += \
-    libQnnHtp \
-    libQnnHtpV73Stub \
+    libQnnHtp.Camera_QNN \
+    libQnnHtpV73Stub.Camera_QNN \
     com.qti.eeprom.gt24p128c2csli_imx766 \
     com.qti.eeprom.gt24p64b_imx688 \
     com.qti.eeprom.irs2381c_polar \
